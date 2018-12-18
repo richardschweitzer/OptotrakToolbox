@@ -1,3 +1,5 @@
+# OptotrakToolbox 
+
 How to use the Northern Digital Optotrak 3D Investigator system in Matlab and get real-time data etc.
 
 CODE etc
