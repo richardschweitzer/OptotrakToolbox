@@ -4,7 +4,7 @@ How to use the Northern Digital Optotrak 3D Investigator system in Matlab and ge
 
 CODE etc
 
-01. Matlab_to_Optotrak() Function and the Visual Studio Project files here.
+01. Matlab_to_Optotrak() Function and the Visual Studio Project files here, based on an idea of Jarrod Blinch (https://motorbehaviour.wordpress.com/2011/09/02/controlling-optotrak-from-matlab/), but vastly extended, e.g., non-blocking routines and rigid body functions.
 
 02. Simple Scripts to run on the Optotrak Server "to try things"
 
@@ -12,11 +12,11 @@ CODE etc
 
 04. Scripts on how to use the Digital Out of the Datapixx.
 
-05. The OPTOTRAK SAMPLING SERVER
+05. The OPTOTRAK SAMPLING SERVER.
 
 06. The ROUNDTRIP. Material to understand Optotrak
 
-Richard's Optotrak presentation slides: optotrak_presentation_23.08.2016.pdf
+Recommended introduction using Richard's Optotrak presentation slides: optotrak_presentation_23.08.2016.pdf
 
 Here the Optotrak Programmer's Guide: Optotrak_Application_Programmers_Interface_Guide(IL-1070086).pdf
 
